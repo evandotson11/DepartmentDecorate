@@ -1,1 +1,16 @@
+table {border: 1px solid black;}
+#landing{background-image: url("https://ctcl.org/wp-content/uploads/2015/09/centre1-810x538.jpg")}
+h1 {
+    color:black}
+h1{font-family: Impact, fantasy;}
+p {
+    color:darkblue}
 
+a{
+    color:darkblue}
+
+#studioArt {background-color: aqua;}
+#Economics {background-color: lightgreen;}
+#Politics {background-color: dodgerblue}
+#ComputerScience {background-color: lightgoldenrodyellow}
+#Mathematics {background-color: aliceblue}

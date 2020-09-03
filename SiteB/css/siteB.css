@@ -1,1 +1,47 @@
-
+body#landing{
+    color:white;
+    font-family:monospace;
+    font-weight: bolder;
+}
+a{color:white}
+#landing{
+    background-image: url("https://www.centre.edu/wp-content/uploads/2019/07/Best-College_KY_Forbes_1.jpg")
+}
+table{
+    border:1px solid black
+}
+body#StudioArt{
+    color:red
+}
+#StudioArt{
+    background-color: purple
+        
+}
+body#Economics{
+    color:black
+}
+#Economics{
+    background-color:darkblue
+        
+}
+body#politics{
+    color:black
+}
+#politics{
+    background-color:darkred
+}
+body#ComputerScience{
+    color:black
+}
+#ComputerScience{
+    background-color: dodgerblue
+}
+body#Mathematics{
+    color:black
+}
+#Mathematics{
+    background-color:deepskyblue
+}
+.department{
+    font-weight: bold;
+}
